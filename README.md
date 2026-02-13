@@ -36,4 +36,3 @@ Excel
 
 Data Visualization
 
-This project demonstrates skills in data analysis, dashboard design, and business insight generation.
